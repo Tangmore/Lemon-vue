@@ -2,7 +2,7 @@
   "name": "lemon_vue",
   "version": "1.0.0",
   "description": "lemon vue_version",
-  "author": "wang-lily <276374435@qq.com>",
+  "author": "tangmore <tangmore@163.com>",
   "private": true,
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
